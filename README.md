@@ -1,5 +1,5 @@
-# Applications of mathematics softwares
-110-2 國立政治大學 數學軟體應用 課程作業  
+# Applications of mathematics softwares  
+國立政治大學 110學年度 第2學期 數學軟體應用 課程作業  
 授課教師: 蔡炎龍教授
 
 ---
